@@ -59,6 +59,7 @@ int[] SumArray(int[,] matrix)
     return array;
 }
 
+//метод нахождения строки с наименьшей суммой элементов
 int MinSum(int[] array)
 {
     int min = 0;
